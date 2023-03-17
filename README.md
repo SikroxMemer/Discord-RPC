@@ -1,2 +1,2 @@
 # Discord-RPC
-Python : Discord Rich Pressence
+Python : Discord Rich Pressence Interface 
